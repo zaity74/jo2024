@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-This project is about the JO 2024
+Développement d'une WebApp qui contiendra les résultats des données à l'issue des différents traitements pour prédire le pays gagnant lors des JO 2024 et le classement des médailles par Pays.
 
 ## Available Scripts
 
